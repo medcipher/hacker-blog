@@ -19,11 +19,11 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Hacker's Hideout"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Learn. Hack. Secure. Repeat." # site tagline that appears below site title in masthead
 name                     : "medcipher"
 description              : "Follow my journey into hacking, IT, and security."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+URL                      : "https://medcipher.github.io/hacker-blog/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/hacker-blog" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -91,7 +91,7 @@ baidu_site_verification  :
 # Navigation menu
 nav:
   - title: "Home"
-    url: "/"
+    url: "/home"
   - title: "Blog"
     url: "/blog/"
   - title: "Projects"
@@ -328,8 +328,9 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
+      permalink: /
       layout: single
       author_profile: true
       read_time: true
