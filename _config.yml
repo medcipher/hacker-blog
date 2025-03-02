@@ -329,7 +329,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: splash
+      layout: single
       author_profile: true
       read_time: false
       comments: false
@@ -341,6 +341,6 @@ defaults:
       type: pages
     values:
       permalink: /
-      layout: splash
+      layout: single
 
 
