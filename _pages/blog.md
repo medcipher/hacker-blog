@@ -1,5 +1,9 @@
+---
+layout: posts
+title: "Blog"
+permalink: /blog/
+---
 
-# 📝 Blog
 Welcome to my blog! This is where I document my journey in **cybersecurity, ethical hacking, and penetration testing**.
 
 ## 🔥 Latest Posts
@@ -16,5 +20,4 @@ Browse blog posts by topic:
 
 ## 📂 Archives
 Looking for something specific? Check out the [archives](/year-archive/).
-
 
