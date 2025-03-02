@@ -127,7 +127,7 @@ analytics:
 # Site Author
 author:
   name             : "medcipher"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/pp.jpeg"
   bio              : "Ethical hacker and cybersecurity enthusiast."
   location         : "online"
   email            : "my.recovery.mail00@proton.me"
