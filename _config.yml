@@ -327,7 +327,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_pages/home.md"
       type: pages
     values:
       permalink: /
@@ -338,10 +338,3 @@ defaults:
       share: true
       related: true
 
-
-       - scope:
-      path: "_pages/home.md"
-      type: pages
-    values:
-      permalink: /
-      layout: splash
