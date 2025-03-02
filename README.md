@@ -20,8 +20,8 @@ As I navigate the world of **offensive security, reverse engineering, and digita
 ## 🤝 Connect With Me
 If you're passionate about cybersecurity and hacking, let's connect!
 - **GitHub:** [@medcipher](https://github.com/medcipher)
-- **Bluesky:** [@YOURUSERNAME](https://bsky.app/profile/YOURUSERNAME)
-- **Contact Me:** [Check out my Contact Page](https://yourusername.github.io/hacker-journey/contact/)
+- **Bluesky:** [medcipher.bsky.social](https://bsky.app/profile/medcipher.bsky.social)
+- **Contact Me:** [Check out my Contact Page]((https://github.com/medcipher))
 
 ## 📢 Contribute & Collaborate
 Have ideas, feedback, or want to collaborate on projects? Feel free to **open an issue**, share insights, or suggest topics you'd like to see covered.
