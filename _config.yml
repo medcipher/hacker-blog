@@ -331,7 +331,7 @@ defaults:
       type: pages
     values:
       permalink: /
-      layout: splash
+      layout: single
       author_profile: true
       read_time: false
       comments: # true
