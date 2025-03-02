@@ -88,6 +88,19 @@ naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
 
+# Navigation menu
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Blog"
+    url: "/blog/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "About"
+    url: "/about/"
+  - title: "Contact"
+    url: "/contact/"
+
 # Social Sharing
 twitter:
   username               :
