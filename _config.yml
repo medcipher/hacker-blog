@@ -323,18 +323,24 @@ compress_html:
     envs: development
 
 
-# Defaults
+# Default settings for pages
 defaults:
-  # _posts
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: splash
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
+
   - scope:
       path: "_pages/home.md"
       type: pages
     values:
       permalink: /
       layout: splash
-      author_profile: true
-      read_time: false
-      comments: # true
-      share: true
-      related: true
+
 
