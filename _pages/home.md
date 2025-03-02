@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: "Welcome to Hacker's Hideout"
 permalink: /
 header:
