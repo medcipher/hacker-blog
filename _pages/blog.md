@@ -1,8 +1,3 @@
----
-layout: posts
-title: "Blog"
-permalink: /blog/
----
 
 # 📝 Blog
 Welcome to my blog! This is where I document my journey in **cybersecurity, ethical hacking, and penetration testing**.
