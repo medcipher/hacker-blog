@@ -91,7 +91,7 @@ baidu_site_verification  :
 # Navigation menu
 nav:
   - title: "Home"
-    url: "/home"
+    url: "/"
   - title: "Blog"
     url: "/blog/"
   - title: "Projects"
