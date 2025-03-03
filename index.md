@@ -24,7 +24,7 @@ header:
 - 🏴‍☠️ **Tools & Resources** – A curated list of hacking resources for self-learners.
 
 ## ⚡ Start Exploring
-🔗 [Read the Blog](/blog/) | 🏗️ [Check Out My Projects](/projects/) | 💬 [Contact Me](/contact/)
+🔗 [Read the Blog](/hacker-blog/blog/) | 🏗️ [Check Out My Projects](/hacker-blog/projects/) | 💬 [Contact Me](/hacker-blog/contact/)
 
 📡 **Stay curious, stay learning, and stay hacking!**
 
