@@ -17,9 +17,7 @@ body::before {
     height: 100%;
     background: rgba(0, 0, 0, 0.5); /* Adjust opacity */
     z-index: -1;
-}
-
 body {
-    background: url('/assets/images/main.jpg') no-repeat center center fixed;
+    background: url('../images/main.jpg') no-repeat center center fixed;
     background-size: cover;
 }
