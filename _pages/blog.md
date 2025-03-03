@@ -2,7 +2,7 @@
 layout: posts
 title: "Blog"
 permalink: /blog/
-author_profile: false
+author_profile: true
 ---
 
 Welcome to my blog! This is where I document my journey in **cybersecurity, ethical hacking, and penetration testing**.
