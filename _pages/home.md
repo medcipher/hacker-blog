@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Welcome to Hacker's Hideout"
-permalink: /home/
+permalink: /
 header:
   overlay_image: "/assets/images/splash-background.jpg"
   caption: "Your journey into cybersecurity starts here."
