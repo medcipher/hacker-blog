@@ -324,24 +324,6 @@ compress_html:
 
 
 # Default settings for pages
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single  # Change from splash to single
-      author_profile: true
-      read_time: false
-      comments: false
-      share: false
-      related: false
-
-  - scope:
-      path: "_pages/home.md"
-      type: pages
-    values:
-      permalink: /
-      layout: splash  # Only the homepage should use splash
 
 defaults:
   - scope:
