@@ -1,4 +1,4 @@
-layout: page
+layout: single
 title: "Contact Me"
 permalink: /contact/
 
