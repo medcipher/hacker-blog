@@ -8,8 +8,6 @@ header:
   overlay_filter: 0.5
 ---
 
-<img src="/assets/images/avatar.png" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; display: block; margin: auto;">
-
 # 🚀 Welcome to Hacker's Hideout
 
 🔓 **Unlock the world of cybersecurity and ethical hacking!** This site is designed to help you **start your journey** into computer science, penetration testing, and digital forensics.
