@@ -3,7 +3,7 @@ layout: splash
 title: "Welcome to Hacker's Hideout"
 permalink: /
 header:
-  overlay_image: "/assets/images/bg.jpg"
+  overlay_image: "assets/images/bg.jpg"
   caption: "Build, Break, and Secure."
   overlay_filter: 0.5
 ---
