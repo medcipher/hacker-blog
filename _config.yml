@@ -181,6 +181,7 @@ include:
   - "assets"
   - ".sass-cache"
   - ".asset-cache"
+  - "assets/images"
   
 exclude:
   - "*.sublime-project"
