@@ -176,11 +176,11 @@ footer:
 
 # Reading Files
 include:
-  - .htaccess
-  - _pages
-  - assets
-  - .sass-cache
-  - .asset-cache
+  - ".htaccess"
+  - "_pages"
+  - "assets"
+  - ".sass-cache"
+  - ".asset-cache"
   
 exclude:
   - "*.sublime-project"
