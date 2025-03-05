@@ -31,7 +31,7 @@ If you're interested in hacking, cybersecurity, or just want to chat, feel free 
 
 GitHub: @medcipher
 
-Bluesky: @YOURUSERNAME
+Bluesky: medcipher.bsky.social
 
 Contact: [Check out my Contact Page]({{ site.baseurl }}/contact/)
 
