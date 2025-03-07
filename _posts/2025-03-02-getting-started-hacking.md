@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "The Ultimate Beginner’s Guide to Ethical Hacking & Cybersecurity"
 layout: posts
 date: 2025-03-02
 author_profile: true
