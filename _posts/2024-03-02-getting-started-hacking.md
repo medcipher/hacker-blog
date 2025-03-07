@@ -1,6 +1,6 @@
 ---
 title: "How to Get Started in Ethical Hacking & Cybersecurity"
-layout: single
+layout: posts
 author_profile: true
 description: "A step-by-step guide for beginners to learn ethical hacking, set up a cyber lab, and start solving CTF challenges."
 permalink: /getting-started-hacking/
