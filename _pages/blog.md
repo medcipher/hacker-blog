@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "Blog"
+title: "The Hack Log: Documenting My Cybersecurity & Hacking Journey"
 permalink: /blog/
 author_profile: true
 ---
