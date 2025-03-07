@@ -31,8 +31,8 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/desk.jpg
-    title: "Gear"
-    excerpt: "Best deals on gear!"
+    title: "🏴‍☠️ Tools & Resources"
+    excerpt: "Best deals on gear! A curated list of hacking resources for self-learners."
     url: "#test-link"
     btn_label: "Gear"
     btn_class: "btn--primary"
