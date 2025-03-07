@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "About Me"
+title: "Meet the Hacker: My Path to Cybersecurity & CTFs"
 permalink: /about/
 author_profile: false
 ---
 
-🕵️‍♂️ About Me
+## 🕵️‍♂️ About Me
 
 Welcome to Hacker's Hideout, my personal space where I document my journey in cybersecurity, ethical hacking, and penetration testing.
 
@@ -21,11 +21,11 @@ I’m an aspiring ethical hacker passionate about:
 
 📚 Cybersecurity Research & Development – Experimenting with tools and automation.
 
-🚀 My Mission
+## 🚀 My Mission
 
 This site serves as my digital notebook—a place to share insights, lessons learned, and technical breakdowns of security topics. Whether you're a beginner or an advanced hacker, I hope my journey helps inspire and educate others.
 
-🌐 Connect With Me
+## 🌐 Connect With Me
 
 If you're interested in hacking, cybersecurity, or just want to chat, feel free to connect:
 
