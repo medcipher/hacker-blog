@@ -148,7 +148,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://medcipher.github.io/hacker-blog/"
+      url: "https://medcipher.github.io/hacker-blog/"
  #   - label: "Instagram"
   #    icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -164,7 +164,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       URL: "https://medcipher.github.io/hacker-blog/"
+      URL: "https://medcipher.github.io/hacker-blog/"
  #   - label: "GitLab"
   #    icon: "fab fa-fw fa-gitlab"
       # url:
