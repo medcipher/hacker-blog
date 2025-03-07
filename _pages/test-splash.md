@@ -19,20 +19,20 @@ feature_row:
     
     alt: "placeholder image 1"
     title: "Projects"
-    excerpt: "Click here to see the latest project we are working on."
+    excerpt: "See our latest projects!"
     url: "#test-link"
     btn_label: "Projects"
     btn_class: "btn--primary"
   - image_path: /assets/images/hoodie.jpg
     alt: "placeholder image 2"
     title: "Blog"
-    excerpt: "Check out our latest blog post."
+    excerpt: "Check out our latest blog post!"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/desk.jpg
     title: "Gear"
-    excerpt: "Best deals on gear."
+    excerpt: "Best deals on gear!"
     url: "#test-link"
     btn_label: "Gear"
     btn_class: "btn--primary"
