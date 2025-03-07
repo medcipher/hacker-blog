@@ -1,3 +1,20 @@
+---
+title: ""
+layout: posts
+author_profile: true
+description: "Exciting news! My free eBook—30 Days of Ethical Hacking—is launching soon! 🚀 This guide will take you from beginner to hacking-ready in just 30 days with hands-on challenges, CTF training, OSINT, Wi-Fi hacking, Metasploit, and more. Get ready to level up your cybersecurity skills! 🔥💻"
+permalink: /hacker-blog/blog/ethical-hacking-ebook-announcement/
+categories:
+  - Cybersecurity
+  - Ethical Hacking
+  - Beginner
+  - Promotion
+tags:
+  - Hacking
+  - CTF
+  - Cybersecurity
+  - Infosec
+---
 # **🚀 My Free Ethical Hacking eBook is Coming Soon!**
 
 ## **📌 Learn Ethical Hacking in Just 30 Days**
