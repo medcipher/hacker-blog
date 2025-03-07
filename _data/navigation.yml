@@ -10,6 +10,8 @@ main:
     url: "/about/"
   - title: "Contact"
     url: "/contact/"
+  - title: "Test"
+    url: "/test/"
 
 
   #- title: "Quick-Start Guide"
