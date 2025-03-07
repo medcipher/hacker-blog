@@ -101,7 +101,7 @@ nav:
   - title: "Contact"
     url: "/contact/"
   - title: "Test"
-    URL: "/test/"
+    URL: "/test-splash/"
 
 # Social Sharing
 twitter:
