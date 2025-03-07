@@ -137,6 +137,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/medcipher"
+    - label: "Bluesky"
+      icon: "fas fa-cloud"  # Bluesky doesn't have an official FontAwesome icon yet
+      url: "https://bsky.app/profile/medcipher.bsky.social"
 
  #   - label: "Email"
   #    icon: "fas fa-fw fa-envelope-square"
