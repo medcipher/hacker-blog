@@ -1,5 +1,5 @@
 ---
-title: "Test Splash Page"
+title: "Welcome"
 layout: splash
 permalink: /test-splash/
 date: 2024-03-02T11:48:41-04:00
@@ -8,28 +8,28 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/bg.jpg
   actions:
-    - label: "Learn More"
+    - label: "Getting Started"
       url: "/about/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "This is a test splash page using Minimal Mistakes Jekyll theme."
+  
+excerpt: "Check out the Quick Start Guide below"
 intro:
-  - excerpt: 'This is an introduction section with sample content. Centered with `type="center"`'
+  - excerpt: 'Check out what we have to offer:'
 feature_row:
-  - image_path: /assets/images/test-image-1.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+  - image_path: /assets/images/lock.jpg
+    
     alt: "placeholder image 1"
-    title: "Feature 1"
-    excerpt: "This is some sample content using **Markdown** formatting."
-  - image_path: /assets/images/test-image-2.jpg
+    title: "Projects"
+    excerpt: "Click here to see the latest project we are working on."
+  - image_path: /assets/images/hoodie.jpg
     alt: "placeholder image 2"
-    title: "Feature 2"
-    excerpt: "Another section with **Markdown** formatting."
+    title: "Blog"
+    excerpt: "Check out our latest blog post."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/test-image-3.jpg
-    title: "Feature 3"
-    excerpt: "More placeholder content with **Markdown** formatting."
+  - image_path: /assets/images/desk.jpg
+    title: "Gear"
+    excerpt: "Best deals on gear."
 feature_row2:
   - image_path: /assets/images/test-image-2.jpg
     alt: "placeholder image 2"
