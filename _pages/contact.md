@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-📧 Contact Me
+## 📧 Contact Me
 
 Want to chat about cybersecurity, hacking, or collaboration? Feel free to reach out:
 
@@ -26,7 +26,7 @@ Want to chat about cybersecurity, hacking, or collaboration? Feel free to reach 
     </a>
 </div>
 
-🔗 Alternative donation options:
+## 🔗 Alternative donation options:
 
 Bitcoin (BTC): 18jtPXUToXPGFuibMZx8Eh24TKMzER2FF9
 
