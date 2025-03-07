@@ -24,17 +24,7 @@ Maintaining this site takes time and effort. If you’d like to support my resea
 <p>If you enjoy my content and want to support me, consider buying me a coffee! Your support helps keep the site running and funds future cybersecurity projects.</p>
 
 <!-- Buy Me a Coffee Button -->
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
-    data-name="bmc-button" 
-    data-slug="medcipher" 
-    data-color="#1692d0" 
-    data-emoji="☕"  
-    data-font="Cookie" 
-    data-text="Buy me a coffee" 
-    data-outline-color="#ffffff" 
-    data-font-color="#ffffff" 
-    data-coffee-color="#FFDD00">
-</script>
+<a href="https://www.buymeacoffee.com/medcipher"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=medcipher&button_colour=1692d0&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
 
 🔗 Alternative donation options:
 
