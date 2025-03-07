@@ -358,5 +358,5 @@ defaults:
 collections:
   posts:
     output: true
-    permalink: /blog/:title/
+    permalink: /hacker-blog/blog/:title/
 
