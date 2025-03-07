@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Contact Me"
+title: "Need a Signal? Reach Out to Me Here"
 permalink: /contact/
 author_profile: true
 ---
