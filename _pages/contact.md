@@ -21,7 +21,7 @@ Maintaining this site takes time and effort. If you’d like to support my resea
 
 ## ☕ Support My Work  
 <p align="center">
-  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+  <a href="https://buymeacoffee.com/medcipher" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="250">
   </a>
 </p>
