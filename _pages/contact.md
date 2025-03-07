@@ -19,6 +19,13 @@ Want to chat about cybersecurity, hacking, or collaboration? Feel free to reach 
 
 Maintaining this site takes time and effort. If you’d like to support my research and content, consider buying me a coffee:
 
+## ☕ Support My Work  
+<p align="center">
+  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="250">
+  </a>
+</p>
+
 🔗 Alternative donation options:
 
 Bitcoin (BTC): 18jtPXUToXPGFuibMZx8Eh24TKMzER2FF9
