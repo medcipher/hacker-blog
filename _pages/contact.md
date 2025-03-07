@@ -20,11 +20,22 @@ Want to chat about cybersecurity, hacking, or collaboration? Feel free to reach 
 Maintaining this site takes time and effort. If you’d like to support my research and content, consider buying me a coffee:
 
 ## ☕ Support My Work  
-<p align="center">
-  <a href="https://buymeacoffee.com/medcipher" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="250">
-  </a>
-</p>
+## ☕ Support My Work
+
+<p>If you enjoy my content and want to support me, consider buying me a coffee! Your support helps keep the site running and funds future cybersecurity projects.</p>
+
+<!-- Buy Me a Coffee Button -->
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+    data-name="bmc-button" 
+    data-slug="medcipher" 
+    data-color="#1692d0" 
+    data-emoji="☕"  
+    data-font="Cookie" 
+    data-text="Buy me a coffee" 
+    data-outline-color="#ffffff" 
+    data-font-color="#ffffff" 
+    data-coffee-color="#FFDD00">
+</script>
 
 🔗 Alternative donation options:
 
