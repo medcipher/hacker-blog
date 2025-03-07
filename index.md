@@ -4,7 +4,7 @@ title: "Welcome to Hacker's Hideout"
 permalink: /
 header:
   overlay_image: "assets/images/bg.jpg"
-  caption: "Build, Break, and Secure."
+  caption: "Build. Break. Secure. Repeat."
   overlay_filter: 0.5
 ---
 
