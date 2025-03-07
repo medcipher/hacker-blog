@@ -7,6 +7,7 @@ permalink: /getting-started-hacking/
 categories:
   - Cybersecurity
   - Ethical Hacking
+  - Beginner
 tags:
   - Hacking
   - CTF
