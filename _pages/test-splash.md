@@ -11,22 +11,22 @@ header:
     - label: "Free eBook"
       url: "/about/"
   
-excerpt: "🔓 Unlock the world of cybersecurity and ethical hacking! This site is designed to help you start your journey into computer science, penetration testing, and digital forensics."
+excerpt: "🔓 Unlock the world of cybersecurity and ethical hacking! This site will help you start your journey into computer science, penetration testing, and digital forensics."
 intro:
-  - excerpt: 'Check out what we have to offer:'
+  - excerpt: '🔥 Featured Content'
 feature_row:
   - image_path: /assets/images/lock.jpg
     
     alt: "placeholder image 1"
-    title: "Projects"
-    excerpt: "See our latest projects!"
+    title: "🛠 Cybersecurity Projects"
+    excerpt: "Learn how to automate recon and build your own security tools."
     url: "#test-link"
     btn_label: "Projects"
     btn_class: "btn--primary"
   - image_path: /assets/images/hoodie.jpg
     alt: "placeholder image 2"
-    title: "Blog"
-    excerpt: "Check out our latest blog post!"
+    title: "🎯 CTF Write-ups"
+    excerpt: "Step-by-step solutions to hacking challenges."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
