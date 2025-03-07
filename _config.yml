@@ -31,7 +31,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
-copyright                : "© 2025 Hacker's Hideout. All Rights Reserved."
+copyright                : "Hacker's Hideout. All Rights Reserved."
 copyright_url            : # "copyright" URL, defaults to site.url
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -164,7 +164,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      URL: "https://medcipher.github.io/hacker-blog/"
+      url: "https://medcipher.github.io/hacker-blog/"
  #   - label: "GitLab"
   #    icon: "fab fa-fw fa-gitlab"
       # url:
