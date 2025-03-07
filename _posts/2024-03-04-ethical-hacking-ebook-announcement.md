@@ -1,8 +1,8 @@
 ---
-title: ""
+title: "title: "30 Days of Ethical Hacking eBook Announcement""
 layout: posts
 author_profile: true
-description: "Exciting news! My free eBook—30 Days of Ethical Hacking—is launching soon! 🚀 This guide will take you from beginner to hacking-ready in just 30 days with hands-on challenges, CTF training, OSINT, Wi-Fi hacking, Metasploit, and more. Get ready to level up your cybersecurity skills! 🔥💻"
+description: "Free eBook: 30 Days of Ethical Hacking! Learn CTFs, OSINT, Metasploit, Wi-Fi hacking, and more in a structured 30-day challenge. Get updates now!""
 permalink: /hacker-blog/blog/ethical-hacking-ebook-announcement/
 categories:
   - Cybersecurity
