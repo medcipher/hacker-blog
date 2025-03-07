@@ -11,7 +11,7 @@ main:
   - title: "Contact"
     url: "/contact/"
   - title: "Test"
-    url: "/test/"
+    url: "/test-splash/"
 
 
   #- title: "Quick-Start Guide"
