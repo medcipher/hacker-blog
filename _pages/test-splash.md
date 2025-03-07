@@ -20,6 +20,9 @@ feature_row:
     alt: "placeholder image 1"
     title: "Projects"
     excerpt: "Click here to see the latest project we are working on."
+    url: "#test-link"
+    btn_label: "Projects"
+    btn_class: "btn--primary"
   - image_path: /assets/images/hoodie.jpg
     alt: "placeholder image 2"
     title: "Blog"
@@ -30,30 +33,15 @@ feature_row:
   - image_path: /assets/images/desk.jpg
     title: "Gear"
     excerpt: "Best deals on gear."
+    url: "#test-link"
+    btn_label: "Gear"
+    btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/test-image-2.jpg
-    alt: "placeholder image 2"
-    title: "Left Aligned Feature"
-    excerpt: 'Left aligned feature row with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+
 feature_row3:
-  - image_path: /assets/images/test-image-2.jpg
-    alt: "placeholder image 2"
-    title: "Right Aligned Feature"
-    excerpt: 'Right aligned feature row with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+
 feature_row4:
-  - image_path: /assets/images/test-image-2.jpg
-    alt: "placeholder image 2"
-    title: "Centered Feature"
-    excerpt: 'Centered feature row with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+ 
 ---
 
 {% include feature_row id="intro" type="center" %}
