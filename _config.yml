@@ -101,7 +101,7 @@ nav:
   - title: "Contact"
     url: "/contact/"
   - title: "Test"
-    URL: "/test-splash/"
+    url: "/test-splash/"
 
 # Social Sharing
 twitter:
@@ -128,12 +128,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "medcipher"
-  avatar           : "/assets/images/pp.jpeg"
-  bio              : "Ethical hacker and cybersecurity enthusiast."
-  location         : "online"
-  email            : "my.recovery.mail00@proton.me"
+  name: "medcipher"
+  avatar: "/assets/images/pp.jpeg"
+  bio: "Ethical hacker and cybersecurity enthusiast."
+  location: "online"
+  email: "my.recovery.mail00@proton.me"
   links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/medcipher"
+
  #   - label: "Email"
   #    icon: "fas fa-fw fa-envelope-square"
    #   url: "mailto:my.recovery.mail00@proton.me"
@@ -146,9 +150,6 @@ author:
   #  - label: "Facebook"
    #   icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://medcipher.github.io/hacker-blog/"
  #   - label: "Instagram"
   #    icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
