@@ -15,10 +15,6 @@ Want to chat about cybersecurity, hacking, or collaboration? Feel free to reach 
 
 💡 Note: I prioritize privacy and security—if reaching out via email, consider using PGP encryption for sensitive communication.
 
-☕ Support My Work
-
-Maintaining this site takes time and effort. If you’d like to support my research and content, consider buying me a coffee:
-
 ## ☕ Support My Work  
 
 <p>If you enjoy my content and want to support me, consider buying me a coffee! Your support helps keep the site running and funds future cybersecurity projects.</p>
