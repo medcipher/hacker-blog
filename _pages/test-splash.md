@@ -1,5 +1,5 @@
 ---
-title: "Welcome"
+title: "🚀 Welcome to Hacker’s Hideout"
 layout: splash
 permalink: /test-splash/
 date: 2024-03-02T11:48:41-04:00
@@ -8,10 +8,10 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/bg.jpg
   actions:
-    - label: "Getting Started"
+    - label: "Free eBook"
       url: "/about/"
   
-excerpt: "Check out the Quick Start Guide below"
+excerpt: "🔓 Unlock the world of cybersecurity and ethical hacking! This site is designed to help you start your journey into computer science, penetration testing, and digital forensics."
 intro:
   - excerpt: 'Check out what we have to offer:'
 feature_row:
