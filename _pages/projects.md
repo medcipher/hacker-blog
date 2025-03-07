@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Projects"
+title: "Cyber Experiments: Security, Automation & CTF Challenges"
 permalink: /projects/
 author_profile: false
 ---
