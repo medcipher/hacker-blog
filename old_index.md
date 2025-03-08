@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Welcome to Hacker's Hideout"
-permalink: /
+permalink: /old_index
 header:
   overlay_image: "assets/images/bg.jpg"
   caption: "Build. Break. Secure. Repeat."
