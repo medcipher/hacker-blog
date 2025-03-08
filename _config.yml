@@ -351,7 +351,7 @@ defaults:
       layout: single  # Ensures About, Projects, and Contact use the correct layout
 
   - scope:
-      path: "index.md"
+      path: ""
       type: pages
     values:
       permalink: /
