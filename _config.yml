@@ -93,13 +93,13 @@ nav:
   - title: "Home"
     url: "/"
   - title: "Blog"
-    url: "{{ site.baseurl }}/blog/"
+    url: "/blog/"
   - title: "Projects"
-    url: "{{ site.baseurl }}/projects/"
+    url: "/projects/"
   - title: "About"
-    url: "{{ site.baseurl }}/about/"
+    url: "/about/"
   - title: "Contact"
-    url: "{{ site.baseurl }}/contact/"
+    url: "/contact/"
 
 
 # Social Sharing
