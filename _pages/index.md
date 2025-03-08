@@ -21,20 +21,20 @@ feature_row:
     alt: "placeholder image 1"
     title: "🛠 Cybersecurity Projects"
     excerpt: "Learn how to automate recon and build your own security tools."
-    url: "#test-link"
+    url: "/projects/"
     btn_label: "Projects"
     btn_class: "btn--primary"
   - image_path: /assets/images/hoodie.jpg
     alt: "placeholder image 2"
     title: "🎯 CTF Write-ups"
     excerpt: "Step-by-step solutions to hacking challenges."
-    url: "#test-link"
+    url: "/blog/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/desk.jpg
     title: "🏴‍☠️ Tools & Resources"
     excerpt: "Best deals on gear! A curated list of hacking resources for self-learners."
-    url: "#test-link"
+    url: "gear"
     btn_label: "Gear"
     btn_class: "btn--primary"
 feature_row2:
