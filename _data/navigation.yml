@@ -13,7 +13,7 @@ main:
   - title: "Test"
     url: "/test-splash/"
 
-  footer:
+footer:
   links:
     - label: "Subscribe to the Newsletter"
       url: "https://your-mailchimp-url"
