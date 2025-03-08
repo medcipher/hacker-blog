@@ -1,0 +1,38 @@
+/* Reduce header title size */
+.page__hero h1 {
+  font-size: 2.5rem; /* Adjust to fit */
+  font-weight: bold;
+  text-align: center; /* Ensure it stays centered */
+}
+
+/* Align text under button */
+.page__hero .actions {
+  text-align: center; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.page__hero .actions .btn {
+  margin-bottom: 10px;
+}
+
+/* Excerpt: Two columns */
+.excerpt-columns {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.excerpt-columns ul {
+  width: 48%;
+  list-style-type: none;
+  padding: 0;
+}
+
+.excerpt-columns li {
+  font-size: 1rem;
+  margin-bottom: 5px;
+}
