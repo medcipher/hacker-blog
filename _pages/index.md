@@ -1,7 +1,7 @@
 ---
 title: "🚀 Welcome to Hacker’s Hideout"
 layout: splash
-permalink: /test-splash/
+permalink: /
 date: 2024-03-02T11:48:41-04:00
 header:
   overlay_color: "#000"
