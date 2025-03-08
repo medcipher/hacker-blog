@@ -12,29 +12,8 @@ header:
       url: "https://mailchi.mp/bdd6c2dfab4a/red-team-report"
       class: "btn ebook-button"
 subtitle: "🎁 Get Your Free Cybersecurity eBook!"
-  
-excerpt: |
-  <div class="excerpt-columns">
-    <ul>
-      <li>🔐 Learn ethical hacking & cybersecurity fundamentals</li>
-      <li>💻 Hands-on penetration testing & CTF challenges</li>
-      <li>🛡️ Secure networks & defend against real-world threats</li>
-    </ul>
-    <ul>
-      <li>🚀 Advance your cybersecurity career with expert tips</li>
-      <li>📚 Curated resources & tools for self-learners</li>
-      <li>🔥 Join a thriving community of hackers & defenders</li>
-    </ul>
-  </div>
-intro:
-  - excerpt: '🔹 Your Path to Cyber Mastery Starts Here
-	•	🔥 Ethical Hacking: Learn Red Team tactics, penetration testing, and exploit development.
-	•	🛡 Defensive Security: Master Blue Team skills, digital forensics, and incident response.
-	•	🎯 CTF Training: Solve real-world hacking challenges and sharpen your skills.
-	•	🏆 Certifications & Career Growth: Get CEH, OSCP, CISSP, and more—we guide you to success.'
 feature_row:
   - image_path: /assets/images/lock.jpg
-    
     alt: "placeholder image 1"
     title: "🛠 Cybersecurity Projects"
     excerpt: "Learn how to automate recon and build your own security tools."
@@ -51,7 +30,7 @@ feature_row:
   - image_path: /assets/images/desk.jpg
     title: "🏴‍☠️ Tools & Resources"
     excerpt: "Best deals on gear! A curated list of hacking resources for self-learners."
-    url: "gear"
+    url: "/gear/"
     btn_label: "Gear"
     btn_class: "btn--primary"
 feature_row2:
@@ -66,5 +45,16 @@ feature_row4:
 
 {% include feature_row %}
 
-
+<div class="excerpt-columns">
+  <ul>
+    <li>🔐 Learn ethical hacking & cybersecurity fundamentals</li>
+    <li>💻 Hands-on penetration testing & CTF challenges</li>
+    <li>🛡️ Secure networks & defend against real-world threats</li>
+  </ul>
+  <ul>
+    <li>🚀 Advance your cybersecurity career with expert tips</li>
+    <li>📚 Curated resources & tools for self-learners</li>
+    <li>🔥 Join a thriving community of hackers & defenders</li>
+  </ul>
+</div>
 
