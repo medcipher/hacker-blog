@@ -7,15 +7,25 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/bg.jpg
-  caption: "🎁 Get Your Free Cybersecurity eBook!
-
-Start your journey today with “30 Days of Ethical Hacking”—a step-by-step challenge to build your skills in one month."
   actions:
     - label: "🚀 Free eBook"
       url: "https://mailchi.mp/bdd6c2dfab4a/red-team-report"
       class: "btn ebook-button"
+subtitle: "🎁 Get Your Free Cybersecurity eBook!"
   
-excerpt: "Welcome to Red Shield Academy—your go-to hub for learning cybersecurity, ethical hacking, and penetration testing from the ground up. Whether you’re a beginner looking to break into the industry or a security pro sharpening your skills, we provide the tools, training, and insider knowledge you need to stay ahead of threats and master offensive and defensive security."
+excerpt: |
+  <div class="excerpt-columns">
+    <ul>
+      <li>🔐 Learn ethical hacking & cybersecurity fundamentals</li>
+      <li>💻 Hands-on penetration testing & CTF challenges</li>
+      <li>🛡️ Secure networks & defend against real-world threats</li>
+    </ul>
+    <ul>
+      <li>🚀 Advance your cybersecurity career with expert tips</li>
+      <li>📚 Curated resources & tools for self-learners</li>
+      <li>🔥 Join a thriving community of hackers & defenders</li>
+    </ul>
+  </div>
 intro:
   - excerpt: '🔹 Your Path to Cyber Mastery Starts Here
 	•	🔥 Ethical Hacking: Learn Red Team tactics, penetration testing, and exploit development.
