@@ -350,13 +350,6 @@ defaults:
     values:
       layout: single  # Ensures About, Projects, and Contact use the correct layout
 
-  - scope:
-      path: ""
-      type: pages
-    values:
-      permalink: /
-      layout: splash  # Ensures homepage is a splash page
-
 collections:
   posts:
     output: true
