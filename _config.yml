@@ -132,7 +132,7 @@ author:
   avatar: "/assets/images/pp.jpeg"
   bio: "Ethical hacker and cybersecurity enthusiast."
   location: "everywhere.nowhere.online"
-  social:
+  links:
     - label: "@medcipher"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/medcipher"
