@@ -134,11 +134,11 @@ author:
   location: "everywhere.nowhere.online"
   email: "my.recovery.mail00@proton.me"
   links:
-    - label: "GitHub"
+    - label: "@medcipher"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/medcipher"
       social:
-    - label: "bluesky"
+    - label: "@medcipher.bsky.social"
       icon: "fa-brands fa-bluesky"  # Bluesky doesn't have an official FontAwesome icon yet
       url: "https://bsky.app/profile/medcipher.bsky.social"
  #   - label: "Email"
