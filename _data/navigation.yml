@@ -3,13 +3,13 @@ main:
   - title: "Home"
     url: "/"
   - title: "Blog"
-    url: "/blog/"
+    url: "{{ site.baseurl }}/blog/"
   - title: "Projects"
-    url: "/projects/"
+    url: "/{{ site.baseurl }}/projects/"
   - title: "About"
-    url: "/about/"
+    url: "{{ site.baseurl }}/about/"
   - title: "Contact"
-    url: "/contact/"
+    url: "{{ site.baseurl }}/contact/"
 
 footer:
   links:
