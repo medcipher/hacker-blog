@@ -1,8 +1,8 @@
 /* Reduce header title size */
 .page__hero h1 {
-  font-size: 2.5rem; /* Adjust to fit */
-  font-weight: bold;
-  text-align: center; /* Ensure it stays centered */
+  font-size: 2.5rem !important;
+  font-weight: bold !important;
+  text-align: center !important;
 }
 
 /* Align text under button */
@@ -54,10 +54,10 @@ body {
     padding: 14px 28px;
     font-size: 18px;
     font-weight: bold;
-    background-color: #1692d0; /* Adjust color */
+    background-color: #1692d0 !important;
     color: #fff !important;
-    border-radius: 8px;
-    text-decoration: none;
+    border-radius: 8px !important;
+    text-decoration: none !important;
     transition: 0.3s ease-in-out;
     width: fit-content; /* Button wraps content */
     margin: 20px auto; /* Centers horizontally */
