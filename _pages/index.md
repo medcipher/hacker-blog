@@ -7,7 +7,9 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/bg.jpg
-  caption: "🔒 Secure. Hack. Defend. Become an Expert."
+  caption: "🎁 Get Your Free Cybersecurity eBook!
+
+Start your journey today with “30 Days of Ethical Hacking”—a step-by-step challenge to build your skills in one month."
   actions:
     - label: "🚀 Free eBook"
       url: "https://mailchi.mp/bdd6c2dfab4a/red-team-report"
