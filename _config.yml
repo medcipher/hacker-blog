@@ -100,8 +100,6 @@ nav:
     url: "/about/"
   - title: "Contact"
     url: "/contact/"
-  - title: "Test"
-    url: "/test-splash/"
 
 # Social Sharing
 twitter:
