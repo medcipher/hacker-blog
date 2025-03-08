@@ -13,6 +13,12 @@ main:
   - title: "Test"
     url: "/test-splash/"
 
+  footer:
+  links:
+    - label: "Subscribe to the Newsletter"
+      url: "https://your-mailchimp-url"
+      icon: "fas fa-envelope"
+
 
   #- title: "Quick-Start Guide"
    # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
