@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/bg.jpg
   actions:
     - label: "Free eBook"
-      url: "/about/"
+      url: "(https://mailchi.mp/bdd6c2dfab4a/red-team-report)"
   
 excerpt: "🔓 Unlock the world of cybersecurity and ethical hacking! This site will help you start your journey into computer science, penetration testing, and digital forensics."
 intro:
