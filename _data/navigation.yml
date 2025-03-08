@@ -3,18 +3,18 @@ main:
   - title: "Home"
     url: "/"
   - title: "Blog"
-    url: "{{ site.baseurl }}/blog/"
+    url: "/blog/"
   - title: "Projects"
-    url: "/{{ site.baseurl }}/projects/"
+    url: "//projects/"
   - title: "About"
-    url: "{{ site.baseurl }}/about/"
+    url: "/about/"
   - title: "Contact"
-    url: "{{ site.baseurl }}/contact/"
+    url: "/contact/"
 
 footer:
   links:
     - label: "Subscribe to the Newsletter"
-      url: "https://your-mailchimp-url"
+      url: "https://mailchi.mp/bdd6c2dfab4a/red-team-report"
       icon: "fas fa-envelope"
 
 
