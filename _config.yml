@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Hacker's Hideout"
+title                    : "Red Shield Academy"
 title_separator          : "-"
-subtitle                 : "Learn. Hack. Secure. Repeat." # site tagline that appears below site title in masthead
+subtitle                 : "🔒 Secure. Hack. Defend. Become an Expert." # site tagline that appears below site title in masthead
 name                     : "medcipher"
 description              : "Follow my journey into hacking, IT, and security."
 URL                      : "https://medcipher.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
