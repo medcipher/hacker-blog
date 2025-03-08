@@ -65,3 +65,8 @@ body {
 .ebook-button:hover {
     background-color: #0d6ba8; /* Darker on hover */
 }
+
+.site-title img {
+  max-height: 40px;  /* Adjust size as needed */
+  width: auto;
+}
