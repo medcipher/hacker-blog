@@ -32,7 +32,8 @@
   padding: 0;
 }
 
-.body {
+/* Background Image */
+body {
     background: url('/assets/images/main.jpg') no-repeat center center fixed;
     background-size: cover;
 }
@@ -66,18 +67,15 @@
     background-color: #0d6ba8; /* Darker on hover */
 }
 
-.site-title img {
-  max-height: 40px;  /* Adjust size as needed */
-  width: auto;
-}
-
-.masthead__logo img {
-    border-radius: 50%; /* Adjust pixel size for softer or sharper corners */
-    max-width: 50px;
-    height: auto;
+/* Navbar Logo */
+.site-title img, .masthead__logo img {
+    max-height: 50px;
+    width: auto;
+    border-radius: 50%; /* Rounded Logo */
 }
 
 .masthead__logo img:hover {
     transform: scale(1.1);
     transition: 0.3s ease-in-out;
+    cursor: pointer;
 }
