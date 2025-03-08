@@ -10,7 +10,7 @@ header:
   actions:
     - label: "🚀 Free eBook"
       url: "https://mailchi.mp/bdd6c2dfab4a/red-team-report"
-      class: "ebook-button"
+      class: "btn ebook-button"
   
 excerpt: "🔓 Unlock the world of cybersecurity and ethical hacking! This site will help you start your journey into computer science, penetration testing, and digital forensics."
 intro:
