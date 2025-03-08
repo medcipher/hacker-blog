@@ -6,11 +6,12 @@ main:
     url: "/blog/"
   - title: "Projects"
     url: "/projects/"
+  - title: "Gear"
+    url: "/gear/"
   - title: "About"
     url: "/about/"
   - title: "Contact"
     url: "/contact/"
-  - title: "/gear/"
 
 footer:
   links:
