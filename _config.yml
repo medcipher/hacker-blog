@@ -160,6 +160,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Subscribe to the Newsletter"
+      url: "https://your-mailchimp-url"
+      icon: "fas fa-envelope"
  #   - label: "Twitter"
   #    icon: "fab fa-fw fa-twitter-square"
       # url:
