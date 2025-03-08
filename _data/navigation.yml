@@ -10,6 +10,7 @@ main:
     url: "/about/"
   - title: "Contact"
     url: "/contact/"
+  - title: "/gear/"
 
 footer:
   links:
