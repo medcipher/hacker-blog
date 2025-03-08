@@ -70,3 +70,14 @@ body {
   max-height: 40px;  /* Adjust size as needed */
   width: auto;
 }
+
+.masthead__logo img {
+    border-radius: 12px; /* Adjust pixel size for softer or sharper corners */
+    max-width: 50px;
+    height: auto;
+}
+
+.masthead__logo img:hover {
+    transform: scale(1.1);
+    transition: 0.3s ease-in-out;
+}
