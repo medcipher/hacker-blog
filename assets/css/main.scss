@@ -13,3 +13,34 @@ body {
     background: url('/assets/images/main.jpg') no-repeat center center fixed;
     background-size: cover;
 }
+
+/* Center the eBook button */
+.ebook-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 20px auto;
+    padding: 14px 28px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #1692d0; /* Adjust button color */
+    color: #fff !important;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: 0.3s ease-in-out;
+    width: fit-content; /* Makes button wrap content */
+}
+
+.ebook-button:hover {
+    background-color: #0d6ba8; /* Slightly darker blue on hover */
+}
+
+/* Ensure header buttons align centrally */
+.page__hero--overlay .actions {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+}
