@@ -32,6 +32,16 @@
   padding: 0;
 }
 
+/* TEST: Change background color to check if _custom.scss is working */
+body {
+  background-color: #ff0000 !important;
+}
+
+/* TEST: Add a red border to the header */
+.page__hero {
+  border: 5px solid red !important;
+}
+
 .excerpt-columns li {
   font-size: 1rem;
   margin-bottom: 5px;
