@@ -139,7 +139,7 @@ author:
      - label: "@my.recovery.mail00@proton.me"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:my.recovery.mail00@proton.me"
-  social:
+      social:
     - label: "@medcipher.bsky.social"
       icon: "fa-brands fa-bluesky"  # Bluesky doesn't have an official FontAwesome icon yet
       url: "https://bsky.app/profile/medcipher.bsky.social"
