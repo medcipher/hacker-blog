@@ -8,8 +8,9 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/bg.jpg
   actions:
-    - label: "Free eBook"
+    - label: "🚀 Free eBook"
       url: "https://mailchi.mp/bdd6c2dfab4a/red-team-report"
+      class: "ebook-button"
   
 excerpt: "🔓 Unlock the world of cybersecurity and ethical hacking! This site will help you start your journey into computer science, penetration testing, and digital forensics."
 intro:
