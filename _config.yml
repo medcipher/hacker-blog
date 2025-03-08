@@ -132,18 +132,17 @@ author:
   avatar: "/assets/images/pp.jpeg"
   bio: "Ethical hacker and cybersecurity enthusiast."
   location: "everywhere.nowhere.online"
-  email: "my.recovery.mail00@proton.me"
   links:
     - label: "@medcipher"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/medcipher"
-      social:
+     - label: "@my.recovery.mail00@proton.me"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:my.recovery.mail00@proton.me"
+  social:
     - label: "@medcipher.bsky.social"
       icon: "fa-brands fa-bluesky"  # Bluesky doesn't have an official FontAwesome icon yet
       url: "https://bsky.app/profile/medcipher.bsky.social"
- #   - label: "Email"
-  #    icon: "fas fa-fw fa-envelope-square"
-   #   url: "mailto:my.recovery.mail00@proton.me"
    # - label: "Website"
     #  icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
