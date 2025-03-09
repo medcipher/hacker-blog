@@ -9,7 +9,7 @@ author_profile: false
 🔥 These are my top recommended resources for hacking, cybersecurity, and privacy. Many of these links are affiliate links, meaning I may earn a commission if you purchase through them at no extra cost to you.
 
 ## 🏴‍☠️ Best Hacking Tools
-- **Wi-Fi Pineapple** – [Buy here](https://shop.hak5.org/pages/affiliates) 🔗
+- **Wi-Fi Pineapple** – [Buy here](https://shop.hak5.org/pages/affiliates](https://shop.hak5.org/products/wifi-pineapple?srsltid=AfmBOopEUW3UH0s4SUkvsPSnRM5kEtx5YSS06giors7B3hJDaFxNvh1Z)) 🔗
 - **Flipper Zero** – [Get yours]([https://flipperzero.one/](https://shop.flipperzero.one/?_gl=1*j1agq*_ga*MTQ1NzczMTk0OC4xNzQxNTQ1MjYw*_ga_GM78S6JK0K*MTc0MTU0NTI1OS4xLjAuMTc0MTU0NTI1OS42MC4wLjA.)) 🔗
 - **Raspberry Pi Zero Kit for Hacking Labs** – [Amazon Link](https://amzn.to/43AvTXl)
 
