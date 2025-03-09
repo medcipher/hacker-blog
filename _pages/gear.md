@@ -1,3 +1,10 @@
+---
+layout: single
+title: "🛠 Essential Hacking Tools & Cybersecurity Resources"
+permalink: /geer/
+author_profile: false
+---
+
 # Essential Cybersecurity Tools & Resources
 🔥 These are my top recommended resources for hacking, cybersecurity, and privacy. Many of these links are affiliate links, meaning I may earn a commission if you purchase through them at no extra cost to you.
 
