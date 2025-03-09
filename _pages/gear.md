@@ -11,7 +11,7 @@ author_profile: false
 ## 🏴‍☠️ Best Hacking Tools
 - **Wi-Fi Pineapple** – [Buy here](https://shop.hak5.org/pages/affiliates) 🔗
 - **Flipper Zero** – [Get yours](https://flipperzero.one/) 🔗
-- **Raspberry Pi Kit for Hacking Labs** – [Amazon Link](https://www.amazon.com)
+- **Raspberry Pi Zero Kit for Hacking Labs** – [Amazon Link](https://amzn.to/43AvTXl)
 
 ## 🔐 Best VPNs for Privacy
 - **NordVPN** – [Exclusive Offer](https://nordvpn.com/affiliate/)
