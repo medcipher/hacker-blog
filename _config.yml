@@ -134,7 +134,7 @@ author:
   bio: "Ethical hacker and cybersecurity enthusiast."
   location: "everywhere.nowhere.online"
   links:
-    - label: "@medcipher"
+    - label: "medcipher"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/medcipher"
     - label: "my.recovery.mail00@proton.me"
