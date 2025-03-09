@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "🛠 Essential Hacking Tools & Cybersecurity Resources"
-permalink: /geer/
+permalink: /gear/
 author_profile: false
 ---
 
