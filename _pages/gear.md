@@ -18,5 +18,5 @@ author_profile: false
 - **ExpressVPN** – [Get a Discount](https://www.expressvpn.com/affiliate)
 
 ## 🎓 Cybersecurity Training
-- **TryHackMe Subscription** – [Sign up](https://tryhackme.com/affiliate)
+- **TryHackMe Subscription** – [Sign up](https://tryhackme.com/signup)
 - **Best Udemy Courses for Ethical Hacking** – [Browse Courses](https://www.udemy.com/affiliate/)
