@@ -24,24 +24,24 @@ Looking for the best gear for cybersecurity, ethical hacking, and penetration te
 
 | 💻 Laptop | 🔥 Best For | 🛒 Amazon Link |
 |-----------|------------|--------------|
-| **ASUS ROG Strix G16** | High-performance hacking & CTFs | [Buy on Amazon](#) |
-| **Framework Laptop** | Fully customizable & Linux-friendly | [Buy on Amazon](#) |
-| **Dell XPS 15** | Powerful yet lightweight for pentesters | [Buy on Amazon](#) |
+| **ASUS ROG Strix G16** | High-performance hacking & CTFs | [Buy on Amazon](https://amzn.to/41C81jl) |
+| **Lenovo IdeaPad** | Fully customizable & Budget-friendly | [Buy on Amazon](https://amzn.to/3FiM8OL) |
+| **Dell XPS 15** | Powerful yet lightweight for pentesters | [Buy on Amazon](https://amzn.to/3XFAbc7) |
 
 ---
 
 ## **💾 Must-Have USB Tools for Hackers**
 🔎 **Essential USB Tools for Red Teamers & Ethical Hackers:**
 - ✔️ **USB Rubber Ducky** – Executes payloads when plugged in
-- ✔️ **WiFi Pineapple** – Wireless auditing & man-in-the-middle testing
+- ✔️ **Travel Wi-Fi Router** – Wireless auditing & man-in-the-middle testing similar to a Pineapple
 - ✔️ **Flipper Zero** – Versatile hacking multi-tool
 
 📌 **Top USB Hacking Tools:**
 
 | 🔌 Device | 🛠️ Best Use | 🛒 Amazon Link |
 |----------|------------|--------------|
-| **USB Rubber Ducky** | Automate keystroke injection attacks | [Buy on Amazon](#) |
-| **WiFi Pineapple** | Wireless penetration testing & spoofing | [Buy on Amazon](#) |
+| **HackyPi** | Automate keystroke injection attacks | [Buy on Amazon](https://amzn.to/41RF0BI) |
+| **Travel WiFi Router** | Wireless penetration testing & spoofing | [Buy on Amazon](https://amzn.to/3Dgs1Ah) |
 | **Flipper Zero** | RFID, NFC, and hardware hacking | [Buy on Amazon](#) |
 
 ---
@@ -56,9 +56,9 @@ Looking for the best gear for cybersecurity, ethical hacking, and penetration te
 
 | 🌐 Router | 🔐 Security Features | 🛒 Amazon Link |
 |-----------|---------------------|--------------|
-| **GL.iNet Slate AX** | OpenVPN & WireGuard support | [Buy on Amazon](#) |
-| **Netgear Nighthawk RAXE500** | High-speed Wi-Fi with built-in VPN | [Buy on Amazon](#) |
-| **Asus RT-AX88U** | Advanced firewall & VPN support | [Buy on Amazon](#) |
+| **GL.iNet Slate AX** | OpenVPN & WireGuard support | [Buy on Amazon](https://amzn.to/4hprjhL) |
+| **NETGEAR Nighthawk 6-Stream AX5400** | High-speed Wi-Fi with built-in VPN | [Buy on Amazon](https://amzn.to/3FqeyWY) |
+| **ASUS RT-AX88U PRO AX6000 Dual Band WiFi 6 Router** | Advanced firewall & VPN support | [Buy on Amazon](https://amzn.to/3FhlKVo) |
 
 ---
 
@@ -72,24 +72,14 @@ Looking for the best gear for cybersecurity, ethical hacking, and penetration te
 
 | 📖 Book | 🏆 Best For | 🛒 Amazon Link |
 |----------|-----------|--------------|
-| **The Web Application Hacker’s Handbook** | Web security & pentesting | [Buy on Amazon](#) |
-| **Metasploit: The Penetration Tester’s Guide** | Mastering Metasploit | [Buy on Amazon](#) |
-| **The Art of Exploitation (2nd Ed.)** | Learning hacking fundamentals | [Buy on Amazon](#) |
+| **The Web Application Hacker’s Handbook** | Web security & pentesting | [Buy on Amazon](https://amzn.to/4ifxu9p) |
+| **Metasploit: The Penetration Tester’s Guide** | Mastering Metasploit | [Buy on Amazon](https://amzn.to/43wZvVv) |
+| **The Art of Exploitation (2nd Ed.)** | Learning hacking fundamentals | [Buy on Amazon](https://amzn.to/4kzjt86) |
 
 ---
 
-## **🔥 Final Thoughts & Call to Action**
+## **🔥 Final Thoughts**
 _"Having the right tools is essential for cybersecurity professionals. Whether you're a beginner learning ethical hacking or a seasoned pentester, these devices and resources will help elevate your skills."_  
 
 ✅ **Check out our full list of recommended tools below**:  
 📌 [Visit Our Amazon Gear Store](#)
-
----
-
-🚀 **Next Steps for Maximizing Revenue**
-🔹 **To boost affiliate sales, consider:**
-✅ Writing **detailed gear reviews** with test results  
-✅ Creating **comparison tables** for top products  
-✅ Using **high-ticket items** that convert well  
-
-💬 **Want a custom-designed gear page with product images & CTA buttons? Let me know!**
