@@ -14,10 +14,15 @@ Welcome to my blog! This is where I document my journey in **cybersecurity, ethi
 
 ## 🏴‍☠️ Categories
 Browse blog posts by topic:
-{% assign categories = site.categories | sort %}
-{% for category in categories %}
-- 🔍 **[{{ category[0] }}](/categories/{{ category[0] }}/)** ({{ category[1].size }} posts)
-{% endfor %}
+
+<div class="categories-grid">
+  {% assign categories = site.categories | sort %}
+  {% for category in categories %}
+    <div class="category-item">
+      🔍 **[{{ category[0] }}](/categories/{{ category[0] }}/)** ({{ category[1].size }} posts)
+    </div>
+  {% endfor %}
+</div>
 
 ## 📂 Archives
 Looking for something specific? Check out the [archives](/year-archive/).
