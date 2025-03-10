@@ -150,3 +150,27 @@ th {
 .category-link a:hover {
   text-decoration: underline;
 }
+
+/* Center the Free eBook button in the splash header */
+.page__hero--overlay .actions {
+    display: flex;
+    justify-content: center;  /* Center horizontally */
+    align-items: center;  /* Center vertically */
+    text-align: center;
+    flex-direction: column;
+    height: 100%; /* Ensure full height */
+}
+
+/* Adjust the button spacing */
+.page__hero--overlay .actions .btn {
+    margin-top: 20px; /* Adds spacing from any text */
+    font-size: 18px; /* Ensures readable button */
+    padding: 12px 24px; /* Adjusts button size */
+    border-radius: 8px; /* Rounded corners */
+}
+
+/* Ensure the button is positioned relative to the overlay */
+.center-button {
+    position: relative;
+    z-index: 10; /* Ensure it stays on top of the overlay */
+}
