@@ -11,7 +11,7 @@ header:
   actions:
     - label: "🚀 Free eBook"
       url: "https://mailchi.mp/bdd6c2dfab4a/red-team-report"
-      class: "btn ebook-button"
+      class: "btn ebook-button center-button"
 subtitle: "🎁 Get Your Free Cybersecurity eBook!"
 feature_row:
   - image_path: /assets/images/lock.jpg
