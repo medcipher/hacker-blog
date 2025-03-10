@@ -19,13 +19,13 @@ Stay connected by following our latest updates, discussions, and contributions. 
 
 🔗 Start Exploring Now! 🚀
 
-## 🤝 Connect With Me
+ 🤝 Connect With Me
 If you're passionate about cybersecurity and hacking, let's connect!
 - **GitHub:** [@medcipher](https://github.com/medcipher)
 - **Bluesky:** [medcipher.bsky.social](https://bsky.app/profile/medcipher.bsky.social)
 - **Contact Me:** [Check out my Contact Page]((https://github.com/medcipher))
 
-## 📢 Contribute & Collaborate
+ 📢 Contribute & Collaborate
 Have ideas, feedback, or want to collaborate on projects? Feel free to **open an issue**, share insights, or suggest topics you'd like to see covered.
 
 ---
