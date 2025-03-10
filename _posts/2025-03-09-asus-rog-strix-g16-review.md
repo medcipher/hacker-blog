@@ -12,7 +12,7 @@ tags:
   - Ethical Hacking
   - ASUS ROG
   - Pentesting
-image: /assets/images/asus-rog-strix-g16.jpg
+image: /hacker-blog/assets/images/asus-rog-strix-g16.jpg
 ---
 ![ASUS ROG Strix G16](/hacker-blog/assets/images/asus-rog-strix-g16.jpg)
 # 🔥 ASUS ROG Strix G16 Review: The Best Ethical Hacking Laptop?
