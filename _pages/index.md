@@ -1,6 +1,7 @@
 ---
 title: "🏆 Red Shield Academy – Master Cybersecurity & Ethical Hacking"
 layout: splash
+paginate: true
 permalink: /
 date: 2024-03-02T11:48:41-04:00
 header:
