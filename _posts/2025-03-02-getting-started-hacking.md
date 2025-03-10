@@ -4,7 +4,7 @@ layout: posts
 date: 2025-03-02
 author_profile: true
 description: "A step-by-step guide for beginners to learn ethical hacking, set up a cyber lab, and start solving CTF challenges."
-permalink: /hacker-blog/blog/getting-started-hacking/
+permalink: /blog/getting-started-hacking/
 categories:
   - Cybersecurity
   - Ethical Hacking
