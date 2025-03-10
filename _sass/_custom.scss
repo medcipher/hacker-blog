@@ -79,3 +79,18 @@ body {
     transition: 0.3s ease-in-out;
     cursor: pointer;
 }
+
+.categories-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 15px; /* Adjust for spacing */
+  padding: 20px 0;
+}
+
+.category-item {
+  background: #1e1e1e; /* Adjust to match your theme */
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+  font-weight: bold;
+}
