@@ -24,17 +24,18 @@ The **ASUS ROG Strix G16** has been making waves as one of the most powerful gam
 ---
 
 ## 🔧 **Tech Specs: ASUS ROG Strix G16**
-| Spec | Details |
-|---|---|
-| **CPU** | Intel Core i9-13980HX (24 cores) |
-| **GPU** | NVIDIA GeForce RTX 4060 / 4070 (varies by model) |
-| **RAM** | 16GB DDR5 (Upgradeable to 32GB) |
-| **Storage** | 512GB / 1TB NVMe SSD (Expandable) |
-| **Display** | 16” FHD+ 165Hz (G-Sync) |
-| **Battery Life** | ~6-7 hours (casual use) |
+
+| Spec            | Details                             |
+|----------------|-------------------------------------|
+| **CPU**       | Intel Core i9-13980HX (24 cores)    |
+| **GPU**       | NVIDIA GeForce RTX 4060 / 4070      |
+| **RAM**       | 16GB DDR5 (Upgradeable to 32GB)     |
+| **Storage**   | 512GB / 1TB NVMe SSD (Expandable)   |
+| **Display**   | 16” FHD+ 165Hz (G-Sync)             |
+| **Battery Life** | ~6-7 hours (casual use)          |
 | **OS Compatibility** | Windows 11 / Kali Linux, Ubuntu, ParrotOS compatible |
-| **Ports** | 1x Thunderbolt 4, 2x USB-A 3.2, 1x HDMI 2.1, RJ45 Ethernet |
-| **Networking** | Wi-Fi 6E + Gigabit Ethernet |
+| **Ports**     | 1x Thunderbolt 4, 2x USB-A 3.2, 1x HDMI 2.1, RJ45 Ethernet |
+| **Networking** | Wi-Fi 6E + Gigabit Ethernet        |
 
 🔗 **[Check the Latest Price on Amazon](#)**
 
