@@ -80,17 +80,14 @@ body {
     cursor: pointer;
 }
 
-.categories-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 15px; /* Adjust for spacing */
-  padding: 20px 0;
+.categories-columns {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: space-between;
 }
 
-.category-item {
-  background: #1e1e1e; /* Adjust to match your theme */
-  padding: 10px;
-  border-radius: 5px;
-  text-align: center;
-  font-weight: bold;
+.category-link {
+  flex: 1 1 calc(33.333% - 10px); /* Creates 3 columns with spacing */
+  min-width: 150px; /* Ensures they don’t get too small on narrow screens */
 }
