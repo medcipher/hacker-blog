@@ -6,8 +6,7 @@ author_profile: true
 description: "Is the ASUS ROG Strix G16 the best laptop for ethical hacking, pentesting, and cybersecurity in 2024? We put it to the test with Kali Linux, Wireshark, and more."
 categories:
   - Reviews
-  - Ethical Hacking
-  - Cybersecurity Gear
+  - Blog
 tags:
   - Hacking Laptops
   - Ethical Hacking
