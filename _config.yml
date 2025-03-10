@@ -23,7 +23,7 @@ subtitle                 : "🔒 Secure. Hack. Defend. Become an Expert." # site
 name                     : "medcipher"
 description              : "Follow my journey into hacking, IT, and security."
 URL                      : "https://medcipher.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/hacker-blog" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/red_shield.jpg"  # Path to your logo file
