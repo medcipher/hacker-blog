@@ -37,7 +37,7 @@ The **ASUS ROG Strix G16** has been making waves as one of the most powerful gam
 | **Ports**     | 1x Thunderbolt 4, 2x USB-A 3.2, 1x HDMI 2.1, RJ45 Ethernet |
 | **Networking** | Wi-Fi 6E + Gigabit Ethernet        |
 
-🔗 **[Check the Latest Price on Amazon](#)**
+🔗 **[Check the Latest Price on Amazon](https://amzn.to/41C81jl)**
 
 ---
 
@@ -77,7 +77,7 @@ We installed **Kali Linux, Parrot OS, and Ubuntu** on the **ROG Strix G16** and 
 ✖ **Not the most lightweight** – **5.5 lbs** is manageable but not ultrabook-level portable.  
 ✖ **No built-in Smart Card Reader** – Some security pros might prefer a built-in reader.  
 
-🔗 **[Check Availability & Pricing on Amazon](#)**  
+🔗 **[Check Availability & Pricing on Amazon](https://amzn.to/41C81jl)**  
 
 ---
 
@@ -98,4 +98,4 @@ We installed **Kali Linux, Parrot OS, and Ubuntu** on the **ROG Strix G16** and 
 
 🔥 **Score: 9/10 – Highly Recommended for Cybersecurity Professionals & Hackers**  
 
-🔗 **[👉 Get the ASUS ROG Strix G16 on Amazon](#)**  
+🔗 **[👉 Get the ASUS ROG Strix G16 on Amazon](https://amzn.to/41C81jl)**  
