@@ -27,7 +27,7 @@ The **ASUS ROG Strix G16** has been making waves as one of the most powerful gam
 
 | Spec            | Details                             |
 |----------------|-------------------------------------|
-| **CPU**       | Intel Core i9-13980HX (24 cores)    |
+| **CPU**       | Intel Core i7-13650HX (14 cores)    |
 | **GPU**       | NVIDIA GeForce RTX 4060 / 4070      |
 | **RAM**       | 16GB DDR5 (Upgradeable to 32GB)     |
 | **Storage**   | 512GB / 1TB NVMe SSD (Expandable)   |
