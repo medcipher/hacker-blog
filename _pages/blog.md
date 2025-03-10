@@ -15,10 +15,10 @@ Welcome to my blog! This is where I document my journey in **cybersecurity, ethi
 ## 🏴‍☠️ Categories
 Browse blog posts by topic:
 
-<div class="categories-grid">
+<div class="categories-columns">
   {% assign categories = site.categories | sort %}
   {% for category in categories %}
-    <div class="category-item">
+    <div class="category-link">
       🔍 **[{{ category[0] }}](/categories/{{ category[0] }}/)** ({{ category[1].size }} posts)
     </div>
   {% endfor %}
