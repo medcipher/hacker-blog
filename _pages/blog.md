@@ -19,7 +19,7 @@ Browse blog posts by topic:
   {% assign categories = site.categories | sort %}
   {% for category in categories %}
     <div class="category-link">
-      🔍 **[{{ category[0] }}](/categories/{{ category[0] }}/)** ({{ category[1].size }} posts)
+      <a href="/categories/{{ category[0] }}/">🔍 {{ category[0] }}</a> ({{ category[1].size }} posts)
     </div>
   {% endfor %}
 </div>
