@@ -105,6 +105,48 @@ body {
   font-weight: bold;
 }
 
+/* 🔹 Global Site-Wide Text Cleanup */
+body {
+  font-size: 16px; /* Consistent text size */
+  line-height: 1.6; /* Improves readability */
+  word-wrap: break-word; /* Prevents weird text break issues */
+}
+
+/* 🔹 Keep Blog Posts & Content Well-Spaced */
+.page__content {
+  max-width: 900px; /* Prevents text from stretching too wide */
+  margin: 0 auto; /* Centers all main content */
+  padding: 20px; /* Adds breathing room */
+}
+
+/* 🔹 Improve All Lists (Like Categories, Archives, etc.) */
+ul {
+  padding-left: 20px; /* Ensures lists don't hug the left edge */
+}
+
+li {
+  margin-bottom: 5px; /* Adds spacing between list items */
+}
+
+/* 🔹 Make Tables & Tech Specs Cleaner */
+table {
+  width: 100%; /* Full-width table */
+  border-collapse: collapse; /* Removes extra space in table borders */
+  font-size: 16px; /* Ensures table text is readable */
+}
+
+th, td {
+  padding: 10px; /* Adds space inside table cells */
+  border: 1px solid #ddd; /* Light border for visibility */
+}
+
+th {
+  background: #1692d0; /* Adds a clean background to table headers */
+  color: #fff;
+  font-weight: bold;
+  text-align: left;
+}
+
 .category-link a:hover {
   text-decoration: underline;
 }
